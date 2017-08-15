@@ -1,0 +1,6 @@
+language: shell
+script:
+  - ./invalidate.sh
+branches:
+  only:
+    - master
