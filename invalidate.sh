@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
-curl "https://www.cloudflare.com/api_json.html" \
-  -d "a=fpurge_ts" \
-  -d "tkn=$CLOUDFLARE_API_KEY" \
-  -d "email=$CLOUDFLARE_EMAIL" \
-  -d "z=erikdesjardins.io" \
-  -d "v=1"
+curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/purge_cache" \
+  -H "X-Auth-Email: $CLOUDFLARE_EMAIL" \
+  -H "X-Auth-Key: $CLOUDFLARE_API_KEY" \
+  -H "Content-Type: application/json" \
+  --data '{"purge_everything":true}'
