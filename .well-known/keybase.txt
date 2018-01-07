@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/erikdesjardins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://erikdesjardins.io
+  * I am erikdesjardins (https://keybase.io/erikdesjardins) on keybase.
+  * I have a public key ASBC-cnmsEdit2o2ZwihIBvBeXYQkI9fa2v1tD7gV1aQVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012042f9c9e6b04762b76a366708a1201bc1797610908f5f6b6bf5b43ee0575690560a",
+      "host": "keybase.io",
+      "kid": "012042f9c9e6b04762b76a366708a1201bc1797610908f5f6b6bf5b43ee0575690560a",
+      "uid": "228d4a89c917f30776534e1441853619",
+      "username": "erikdesjardins"
+    },
+    "merkle_root": {
+      "ctime": 1515356274,
+      "hash": "b68afb1aa9df296475473cf870164b4ee165ff8b4610792d7a3113591b590ac34a9ea44ef5e9185c4c18bcd7c5a3e7538689182bc5f3e1785eba53c3560c8a56",
+      "hash_meta": "d274df7f86db8d2b26e074285adcd557be0e8fe0d7f2cbe0242b56667ecc8711",
+      "seqno": 1897252
+    },
+    "service": {
+      "hostname": "erikdesjardins.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515356317,
+  "expire_in": 504576000,
+  "prev": "9a79e574493627d370385279e698caaa39cfa15f7a165e26663d789ad03c694e",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQvnJ5rBHYrdqNmcIoSAbwXl2EJCPX2tr9bQ+4FdWkFYKp3BheWxvYWTFA1B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDJmOWM5ZTZiMDQ3NjJiNzZhMzY2NzA4YTEyMDFiYzE3OTc2MTA5MDhmNWY2YjZiZjViNDNlZTA1NzU2OTA1NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDJmOWM5ZTZiMDQ3NjJiNzZhMzY2NzA4YTEyMDFiYzE3OTc2MTA5MDhmNWY2YjZiZjViNDNlZTA1NzU2OTA1NjBhIiwidWlkIjoiMjI4ZDRhODljOTE3ZjMwNzc2NTM0ZTE0NDE4NTM2MTkiLCJ1c2VybmFtZSI6ImVyaWtkZXNqYXJkaW5zIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE1MzU2Mjc0LCJoYXNoIjoiYjY4YWZiMWFhOWRmMjk2NDc1NDczY2Y4NzAxNjRiNGVlMTY1ZmY4YjQ2MTA3OTJkN2EzMTEzNTkxYjU5MGFjMzRhOWVhNDRlZjVlOTE4NWM0YzE4YmNkN2M1YTNlNzUzODY4OTE4MmJjNWYzZTE3ODVlYmE1M2MzNTYwYzhhNTYiLCJoYXNoX21ldGEiOiJkMjc0ZGY3Zjg2ZGI4ZDJiMjZlMDc0Mjg1YWRjZDU1N2JlMGU4ZmUwZDdmMmNiZTAyNDJiNTY2NjdlY2M4NzExIiwic2Vxbm8iOjE4OTcyNTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZXJpa2Rlc2phcmRpbnMuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNTM1NjMxNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI5YTc5ZTU3NDQ5MzYyN2QzNzAzODUyNzllNjk4Y2FhYTM5Y2ZhMTVmN2ExNjVlMjY2NjNkNzg5YWQwM2M2OTRlIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQL/zUrUUZlLIX6mnUYdPjjVt41pssfd0w1sAzfcSSa98um6A8Zc9cC8A39BkuqydPMetLH5BFo02ITFDcSpqxgqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCNjw3PAJPWT2DmMJDyMyFay4BC0tg+hOOOVXRbdjE2k6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erikdesjardins
+
+==================================================================
